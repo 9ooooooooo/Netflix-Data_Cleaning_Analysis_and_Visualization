@@ -1,0 +1,9 @@
+There are a few Python Libraries that are needed to be imported
+1. pandas
+2. numpy
+3. matplotlip
+4. pyplot
+5. seaborn
+6. wordcloud
+7. sklearn
+8. plotly
